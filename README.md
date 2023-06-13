@@ -22,3 +22,9 @@ Item # | Description | Quantity | Cost Per Item | Cost
 5 | [Keyboard Switches](https://www.amazon.com/Switches-Replaceable-Equivalent-Keyswitch-Mechanical/dp/B09WHDJJBT/ref=sr_1_2?crid=35BZ7OAAITHQ3&keywords=outemu+keyboard+switches+black+10+pack&qid=1685855507&s=industrial&sprefix=outemu+keyboard+switches+black+10+pack%2Cindustrial%2C144&sr=1-2) | 3 | $10/10pc | $3.00
 6 | Resin Keycaps | 3 | $0.25/ml | $1.20
 7 | [SSH1106 1.3" OLED](https://www.amazon.com/Teyleten-Robot-Display-Raspberry-Microcontroller/dp/B08J1D212N/ref=sr_1_4?crid=25FMTKZWHS90C&keywords=1.3%22+oled&qid=1685853207&sprefix=1.3+oled%2Caps%2C143&sr=8-4) | 1 | $12/2pc | $6.00
+
+## Build/Pictures
+[Here is a link](https://www.thingiverse.com/thing:4816077) to the model I started with and modified to suit the needs of my 3 buttons and OLED screen. They are relatively simple edits and can be done very quickly in Fusion 360. I did not modify the bottom half, and the changes I made to the top half are reflected in the .stp file I exported and included above. 
+
+
+<img src="https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/on.jpg" width="200" /> <img src="https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/off_time.jpg" width = "200"> <img src="https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/open.jpg" width = "200"> <img src="https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/open_bottom.jpg" width = "355"> <img src="https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/open_top.jpg" width = "355">
