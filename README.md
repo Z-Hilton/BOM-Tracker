@@ -30,4 +30,7 @@ Item # | Description | Quantity | Cost Per Item | Cost
 <img src="https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/on.jpg" width="200" /> <img src="https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/off_time.jpg" width = "200"> <img src="https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/open.jpg" width = "200"> <img src="https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/open_bottom.jpg" width = "355"> <img src="https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/open_top.jpg" width = "355">
 
 ## Video
-[![Watch the video](https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/on.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src="https://github.com/Z-Hilton/BOM-Tracker/blob/main/Images/on.jpg" alt="Image" width="500"> </a>
+
+
+
